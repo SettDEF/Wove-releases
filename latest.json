@@ -1,1 +1,5 @@
-{ "version": "0.1.0", "notes": "First public beta.", "url": "" }
+{
+  "version": "0.1.0",
+  "notes": "First public beta of Wove.",
+  "url": "https://github.com/SettDEF/Wove-releases/releases/download/v0.1.0-beta/Wove-0.1.0-beta.apk"
+}
